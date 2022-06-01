@@ -2,7 +2,7 @@
 
 - ⚡ I'm  electrical engineer
 - ⚖️ I’m currently working with metrology, calibration, EMC tests and automate tests
-- 📚 I’m currently learning about atomate tests and data science
+- 📚 I’m currently learning about automate tests and data science
 - 💬 You can ask me about testing, calibration and automation of measuring equipment
 - 📫 How to reach me: (https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/)
 - 😄 Pronouns: He/Him
