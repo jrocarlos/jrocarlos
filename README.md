@@ -4,7 +4,6 @@
 - ⚖️ I’m currently working with metrology, calibration, EMC tests and test automation of measuring equipment
 - 📚 I’m currently learning about automate tests and data science
 - 💬 You can ask me about testing, calibration and automation of measuring equipment
-- 📫 How to reach me: (https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/)
 - 😄 Fun fact: I love sports (🛹/⚽/🏄/🎮/🏈/🏀)
 
 
@@ -33,7 +32,7 @@
 
   
   ##
-  ### Contact me:
+  ### 📫 Contact me:
   
   <div>
     <a href="https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
