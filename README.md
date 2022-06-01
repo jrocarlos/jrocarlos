@@ -6,5 +6,5 @@
 - 💬 You can ask me about test automation and equipment calibration
 - 📫 How to reach me: (https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sports (🛹/⚽/🏄/🎮/🏈/🏀/)
+- ⚡ Fun fact: I love sports (🛹/⚽/🏄/🎮/🏈/🏀)
 
