@@ -5,8 +5,7 @@
 - 📚 I’m currently learning about automate tests and data science
 - 💬 You can ask me about testing, calibration and automation of measuring equipment
 - 📫 How to reach me: (https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sports (🛹/⚽/🏄/🎮/🏈/🏀)
+- 😄 Fun fact: I love sports (🛹/⚽/🏄/🎮/🏈/🏀)
 
 
 ##
