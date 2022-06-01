@@ -24,5 +24,8 @@
   <div align="left">
   
     <i class="devicon-dotnetcore-plain colored"></i>
+    
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+          
 
   </div>
