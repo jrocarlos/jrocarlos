@@ -26,3 +26,10 @@
   <img align="center" alt="jro-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="jro-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg">       
 </div>
+
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/carlos-j%C3%BAnior-799590105/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
