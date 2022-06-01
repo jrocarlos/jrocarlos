@@ -1,4 +1,4 @@
-### Hello world!! 👋
+### Hello everyone!! 👋
 
 - ⚡ I'm  electrical engineer
 - ⚖️ I’m currently working with metrology, calibration, EMC tests and test automation of measuring equipment
@@ -21,3 +21,8 @@
   ##
  
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="jro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jro-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
+</div>
